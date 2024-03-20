@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>add64.png</file>
+    <file>delete_64.png</file>
+    <file>delete64.png</file>
+    <file>edit64.png</file>
+    <file>filter64.png</file>
+    <file>save64.png</file>
+    <file>trash64.png</file>
+  </qresource>
+</RCC>
